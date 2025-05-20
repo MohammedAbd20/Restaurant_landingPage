@@ -9,10 +9,7 @@ This is a great hands-on project for beginners looking to strengthen their front
 ## ✨ Features
 
 - ✅ Fully responsive design
-- ✅ Beautiful scroll animations using [ScrollReveal.js](https://scrollrevealjs.org/)
-- ✅ Icon library integration via [Boxicons](https://boxicons.com/)
 - ✅ Simple and clean code structure (HTML, CSS, JS only)
-- ✅ Ready to deploy on platforms like Netlify
 
 ---
 
