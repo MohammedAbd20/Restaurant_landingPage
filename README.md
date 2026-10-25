@@ -6,6 +6,14 @@ This is a great hands-on project for beginners looking to strengthen their front
 
 ---
 
+## 🖼️ Screenshots
+
+![Landing page](screenshots/page.png)
+
+<img src="screenshots/mobile.png" width="260" alt="Mobile view">
+
+---
+
 ## ✨ Features
 
 - ✅ Fully responsive design
@@ -43,15 +51,15 @@ Feel free to reach out for collaboration, questions, or just to say hello!
 
 - 📧 **Email:** mohhamabd18@gmail.com  
 - 📱 **Phone:** +970 592 604 393  
-- 💼 **LinkedIn:** [Mohammed Abd Elrahman](https://www.linkedin.com/in/mohammed-abd-elrahman-9618a732b/)  
+- 💼 **LinkedIn:** [Mohammed Abd Elrahman](https://www.linkedin.com/in/mohammed-abdelrahman-web/)  
 - 🖥️ **GitHub:** [MohammedAbd20](https://github.com/MohammedAbd20)  
 - 📍 **Location:** Gaza, Palestine  
 
 ---
 
-## 📃 License
+## 🙏 Credits
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is based on the "SL Foods Restaurant" landing page design by **Sajith Dilshan**, who is credited in the page footer. The design and content belong to the original author.
 
 ---
 
